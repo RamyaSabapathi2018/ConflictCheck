@@ -6,6 +6,10 @@ public class PushCode {
 		String s= "ffffff";
 		System.out.println("Sum"+(a+10));
 		System.out.println(s.length());
+		System.out.println("Conflict");
+		System.out.println("Conflict");
+		System.out.println("Conflict");
+		System.out.println("Conflict");
 	}
 
 }
